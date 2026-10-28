@@ -31,4 +31,11 @@ h2 {
   display: flex;
   flex-wrap: wrap;
 }
+  
+.footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
 
