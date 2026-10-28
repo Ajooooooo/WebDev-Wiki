@@ -4,3 +4,25 @@ body {
   color: black;
   margin: 0px;
 }
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: crimson;
+}
+
+.header {
+  background-color: crimson;
+  padding: 15px;
+}
+
+.header a {
+  color: white;
+  padding: 10px;
+}
+
+.content {
+  padding: 20px;
+}
