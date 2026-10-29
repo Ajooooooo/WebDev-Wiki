@@ -14,6 +14,7 @@ const facts = [
 ];
 
 let q = 0;
+let f = 0;
 
 function newQuote() {
     q = q + 1;
@@ -22,4 +23,15 @@ function newQuote() {
     }
     document.getElementById("quote").innerHTML = quotes[q];
 }
+
+function newFact() {
+    f = f + 1;
+    if (f == 4) {
+        f = 0;
+    }
+    document.getElementById("fact").innerHTML = facts[f];
+}
+
+
+
 
