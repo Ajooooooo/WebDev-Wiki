@@ -12,4 +12,14 @@ const facts = [
     "Y0ch4n4n 1s 4lw4ys 1nn0c3nt. 4pp4r3ntly",
     "S4sh4 sw1tch3s m00d v3ry f4st"
 ];
-    
+
+let q = 0;
+
+function newQuote() {
+    q = q + 1;
+    if (q == 5) {
+        q = 0;
+    }
+    document.getElementById("quote").innerHTML = quotes[q];
+}
+
