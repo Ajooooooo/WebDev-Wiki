@@ -32,6 +32,6 @@ function newFact() {
     document.getElementById("fact").innerHTML = facts[f];
 }
 
-
-
-
+function voteNow() {    
+        document.getElementById("voteresult").innerHTML = "v0t3d!!! j0sh w1ns 4nyw4y lol";
+    }
