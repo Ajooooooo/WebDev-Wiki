@@ -1,0 +1,91 @@
+body{
+	background-color:#00e5ff;
+	font-family:"Comic Sans MS", cursive;
+	width:920px;
+	margin:0px auto;
+}
+
+.row{
+	display:flex;
+	justify-content:space-between;
+}
+
+a{
+	color:black;
+}
+
+button{
+	background-color:#ffee00;
+	border:3px solid black;
+	font-family:"Comic Sans MS", cursive;
+	font-weight:bold;
+	padding:5px 10px;
+}
+
+#box1{
+	width:894px;
+	background-color:#e60023;
+	color:white;
+	border:3px dashed #ffee00;
+	padding:10px;
+	margin:10px 0px;
+	text-align:center;
+}
+
+#box2{
+	width:894px;
+	background-color:#2b2bff;
+	color:white;
+	border:3px solid black;
+	padding:10px;
+	margin:10px 0px;
+	text-align:center;
+}
+
+#box3{
+	width:894px;
+	background-color:#ffee00;
+	color:black;
+	border:3px solid black;
+	padding:10px;
+	margin:10px 0px;
+	text-align:center;
+}
+
+#box4{
+	width:280px;
+	background-color:#ffee00;
+	color:black;
+	border:3px solid black;
+	padding:10px;
+	margin:10px 0px;
+	text-align:center;
+}
+
+#box5{
+	width:574px;
+	background-color:#39ff14;
+	color:black;
+	border:3px solid black;
+	padding:10px;
+	margin:10px 0px;
+}
+
+#box6{
+	width:894px;
+	background-color:black;
+	color:white;
+	border:3px dashed deeppink;
+	padding:10px;
+	margin:10px 0px;
+	text-align:center;
+}
+
+#box2 h1{
+	font-size:44px;
+}
+
+img{
+	width:280px;
+	border:3px solid black;
+}

@@ -1,0 +1,154 @@
+body{
+	background-color:#00e5ff;
+	font-family:"Comic Sans MS", cursive;
+	width:920px;
+	margin:0px auto;
+}
+
+.row{
+	display:flex;
+	justify-content:space-between;
+}
+
+a{
+	color:black;
+}
+
+button{
+	background-color:#ffee00;
+	border:3px solid black;
+	font-family:"Comic Sans MS", cursive;
+	font-weight:bold;
+	padding:5px 10px;
+}
+
+#box1{
+	width:894px;
+	background-color:#e60023;
+	color:white;
+	border:3px dashed #ffee00;
+	padding:10px;
+	margin:10px 0px;
+	text-align:center;
+}
+
+#box2{
+	width:894px;
+	background-color:#2b2bff;
+	color:white;
+	border:3px solid black;
+	padding:10px;
+	margin:10px 0px;
+	text-align:center;
+}
+
+#box3{
+	width:894px;
+	background-color:#ffee00;
+	color:black;
+	border:3px solid black;
+	padding:10px;
+	margin:10px 0px;
+	text-align:center;
+}
+
+#box4{
+	width:574px;
+	background-color:white;
+	color:black;
+	border:3px solid black;
+	padding:10px;
+	margin:10px 0px;
+}
+
+#box5{
+	width:280px;
+	background-color:#39ff14;
+	color:black;
+	border:3px solid black;
+	padding:10px;
+	margin:10px 0px;
+}
+
+#box6{
+	width:280px;
+	background-color:#ff9100;
+	color:black;
+	border:3px solid black;
+	padding:10px;
+	margin:10px 0px;
+}
+
+#box7{
+	width:280px;
+	background-color:#ff1fa9;
+	color:black;
+	border:3px solid black;
+	padding:10px;
+	margin:10px 0px;
+}
+
+#box8{
+	width:894px;
+	background-color:black;
+	color:white;
+	border:3px dashed deeppink;
+	padding:10px;
+	margin:10px 0px;
+	text-align:center;
+}
+
+#box2 h1{
+	font-size:44px;
+}
+
+#box4 h2{
+	background-color:deeppink;
+	color:white;
+	padding:10px;
+}
+
+.bubble{
+	width:350px;
+	padding:5px 10px;
+	margin:8px 0px;
+	border:2px solid black;
+}
+
+.right{
+	margin-left:170px;
+}
+
+.josh{
+	background-color:#ff9db5;
+}
+
+.yoch{
+	background-color:#ffee00;
+}
+
+.mark{
+	background-color:#7dff69;
+}
+
+.sasha{
+	background-color:#e3a8ff;
+}
+
+.time{
+	font-size:11px;
+	text-align:right;
+}
+
+.system{
+	text-align:center;
+	font-size:13px;
+	color:gray;
+}
+
+.alert{
+	background-color:#e60023;
+	color:white;
+	font-weight:bold;
+	padding:5px;
+}
